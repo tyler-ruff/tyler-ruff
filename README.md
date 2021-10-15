@@ -1,16 +1,17 @@
-### Hi there 👋
+# Tyler Ruff
+Hello! I am the lead developer at Blazed Labs LLC.
 
-<!--
-**tyler-ruff/tyler-ruff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What do you do?
+Blazed Labs is a product development company I founded in January 2021.
+We make software, items, and media. This also includes games.
 
-Here are some ideas to get you started:
+## Social
+[Personal Facebook](https://facebook.com/blazed.space)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mystery School
+Discover a school like no other, in this Mystery school, we are all the students as well as the teachers.
+- [Visit Forbidden Mystery School of Atlantis](https://www.facebook.com/groups/atlantismysteryschool)
+
+## Explore Blazed Labs
+- [Main Website](https://blazedlabs.com/)
+- [Github](https://github.com/blazed-labs)
