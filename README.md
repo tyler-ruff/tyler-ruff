@@ -1,4 +1,7 @@
 # Tyler Ruff
+
+<a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/BLZ-blue.png?w=120&h=120"></a>
+
 Hello! I am the lead developer at Blazed Labs LLC.
 
 ## What do you do?
