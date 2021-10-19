@@ -8,6 +8,14 @@ Hello! I am the lead developer at Blazed Labs LLC.
 Blazed Labs is a product development company I founded in January 2021.
 We make software, items, and media. This also includes games.
 
+### Stack
+I specialize in the following technologies,
+
+- Google Cloud / Google Apps Script
+- Unity / C#
+- Java
+- Hugo / HTML, CSS, Javascript
+
 ## Social
 [Personal Facebook](https://facebook.com/blazed.space)
 
