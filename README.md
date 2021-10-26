@@ -2,6 +2,11 @@
 
 <a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/BLZ-blue.png?w=120&h=120"></a>
 
+[![Keybase PGP](https://img.shields.io/keybase/pgp/tylerruff)](https://keybase.io/tylerruff)
+
+- Phone: (609) 287-3897
+- Email: tyler.ruff@aol.com
+
 Hello! I am the lead developer at Blazed Labs LLC.
 
 ## What do you do?
@@ -23,6 +28,10 @@ I specialize in the following technologies,
 Discover a school like no other, in this Mystery school, we are all the students as well as the teachers.
 - [Visit Forbidden Mystery School of Atlantis](https://www.facebook.com/groups/atlantismysteryschool)
 
-## Explore Blazed Labs
-- [Main Website](https://blazedlabs.com/)
-- [Github](https://github.com/blazed-labs)
+## Blazed Labs
+Blazed Labs LLC is a product development company founded in 2020.
+- [Blazed Labs](https://blazedlabs.com/)
+
+## Blazed Foods
+Amazing quality, amazing prices. Discover Blazed Foods today!
+- [BlazedFoods](https://blazedfoods.com)
