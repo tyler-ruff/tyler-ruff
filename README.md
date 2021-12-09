@@ -17,9 +17,13 @@ We make software, items, and media. This also includes games.
 I specialize in the following technologies,
 
 - Google Cloud / Google Apps Script
+  - Firebase
+  - Google Workspace
 - Unity / C#
 - Java
 - Hugo / HTML, CSS, Javascript
+  - Svelte/Vue
+  - Preact/React/Inferno
 
 ## Social
 [Personal Facebook](https://facebook.com/blazed.space)
@@ -30,8 +34,10 @@ Discover a school like no other, in this Mystery school, we are all the students
 
 ## Blazed Labs
 Blazed Labs LLC is a product development company founded in 2020.
-- [Blazed Labs](https://blazedlabs.com/)
+- [Blazed Labs LLC](https://blazedlabs.com/)
+- [Blazed Space BD](https://blazed.space/)
+- [Blazed Publishing BD](https://blazed.xyz/)
 
 ## Blazed Foods
 Amazing quality, amazing prices. Discover Blazed Foods today!
-- [BlazedFoods](https://blazedfoods.com)
+- [Blazed Foods BD](https://blazedfoods.com)
