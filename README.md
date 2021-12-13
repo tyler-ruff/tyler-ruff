@@ -18,7 +18,7 @@ Discover a school like no other, in this Mystery school, we are all the students
 ## Blazed Labs
 Blazed Labs LLC is a product development company founded in 2020.
 - [Blazed Labs LLC](https://blazedlabs.com/)
-- [Blazed Space BD](https://blazed.space/)
+- [Blazed Systems BD](https://blazed.systems/)
 - [Blazed Publishing BD](https://blazed.xyz/)
 
 ## Blazed Foods
