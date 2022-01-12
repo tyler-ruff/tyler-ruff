@@ -25,7 +25,7 @@ Discover a school like no other, in this virtual campus, we are all the students
 - [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
 - [Blazed World](https://blazed.world/)
 - [Blazed City](https://blazed.city/)
-- [Blazed Space](https://blazed.space/)
+- [Blazed Space](https://www.blazed.space/)
 
 ## Foods Research & Development
 Amazing quality, amazing prices. Discover Blazed Foods today!
