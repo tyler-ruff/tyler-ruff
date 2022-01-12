@@ -20,7 +20,7 @@ Blazed Labs LLC is a product development company founded in 2020.
 - [Blazed Telecom BD](https://blazed.tel/)
 
 ## Blazed University
-Discover a school like no other, in this Mystery school, we are all the students as well as the teachers.
+Discover a school like no other, in this virtual campus, we are all the students as well as the teachers.
 - [Blazed University Facebook](https://www.facebook.com/groups/blazed.edu)
 - [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
 - [Blazed World](https://blazed.world/)
