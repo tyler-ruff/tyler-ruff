@@ -5,7 +5,7 @@
 Hello! I am Tyler, I Love programming and learning/teaching about computers!
 
 ## What do you do?
-Blazed Labs is a product development company I founded in January 2021.
+Blazed Labs is a product development company we founded in January, 2020.
 We make software, items, and media. This also includes games.
 
 ## Social
