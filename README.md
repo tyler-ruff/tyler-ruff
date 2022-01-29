@@ -2,7 +2,7 @@
 
 <a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/Beaker-Rainbow.png?w=120&h=120"></a>
 
-Hello! I am Tyler, I Love programming and learning/teaching about computers!
+Code is scripture, and I am a Programming Monk.
 
 ## What do you do?
 Blazed Labs is a product development company we founded in January, 2020.
