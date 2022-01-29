@@ -6,7 +6,7 @@ Code is scripture, and I am a Programming Monk.
 
 ## What do you do?
 Blazed Labs is a product development company we founded in January, 2020.
-We make software, items, and media. This also includes games.
+We make software, items, and media. This also includes games. The RUFF Foundation is our open source non profit, whom acts as the orchestrator for various collaborative project development ventures.
 
 ## Social
 - [Professional Facebook](https://facebook.com/blazed.space)
