@@ -9,7 +9,7 @@ Blazed Labs is a product development company we founded in January, 2020.
 We make software, items, and media. This also includes games.
 
 ## Social
-- [Personal Facebook](https://facebook.com/blazed.space)
+- [Professional Facebook](https://facebook.com/blazed.space)
 - [Linkedin](https://www.linkedin.com/in/blz-one/)
   
 ## Blazed Labs
