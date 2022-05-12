@@ -10,40 +10,16 @@ We make software, experiences, and media. This also includes games. The RUFF Fou
 
 ## Social
 - [Professional Facebook](https://facebook.com/blazed.space)
+- [Blazed University Facebook](https://www.facebook.com/groups/blazed.edu)
+- [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
 - [Linkedin](https://www.linkedin.com/in/blz-one/)
-- [Instagram](https://instagram.com/blazed_labs)
-- [Twitter](https://twitter.com/BlazedLabs)
 
 ## Github
 - [Main - @blazed-labs](https://github.com/blazed-labs)
 - [Developers - @blazed-space](https://github.com/blazed-space)
 - [Publishing - @blazed-xyz](https://github.com/blazed-xyz)
 - [Community - @ruff-org](https://github.com/ruff-org)
-  
-## Websites
-- [Blazed Labs LLC](https://blazedlabs.com/)
-- [Blazed Space](https://www.blazed.space/)
-- [Blazed Quest](https://blazed.quest/)
 
-### Blazed One
-- [Blazed One Home](https://blz.one/)
-- [Blazed Systems](https://blazed.systems/)
-- [Blazed Telecom](https://blazed.tel/)
+## IDE Profiles
+- [StackBlitz](https://stackblitz.com/@tyler-ruff)
 
-### Blazed University
-- [Blazed City](https://blazed.city/)
-- [Blazed University Facebook](https://www.facebook.com/groups/blazed.edu)
-- [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
-
-### Blazed Foods
-- [Blazed Foods](https://blazedfoods.com)
-
-### Media
-- [Blazed Publishing](https://blazed.xyz/)
-- [Blazed Watch](https://blazed.watch/)
-- [Blazed World](https://blazed.world/)
-- [Concrete Games](https://blazed.games/)
-
-## Partners
-- [RTM Transit](https://rtmtransit.com/)
-- [Ocean Car Service](https://oceancarservice.com/)
