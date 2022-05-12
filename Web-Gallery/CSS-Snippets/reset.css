@@ -1,0 +1,19 @@
+/*
+    @ reset v1.0
+    DESC: Basic CSS Reset. Intentionally small, to improve
+          integration with various frameworks.
+    (c) MIT Tyler Ruff; Blazed Labs LLC
+*/
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+
+

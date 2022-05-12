@@ -1,41 +1,49 @@
 # Tyler Ruff
 
-<a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/Beaker-Rainbow.png?w=120&h=120"></a>
+<a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/Beaker-Dark.png?w=120&h=120"></a>
 
-Code is scripture, and I am a Programming Monk.
+> "Code is scripture, and I am a Programming Monk."
 
 ## What do you do?
 Blazed Labs is a product development company we founded in January, 2020.
-We make software, items, and media. This also includes games. The RUFF Foundation is our open source non profit, whom acts as the orchestrator for various collaborative project development ventures.
+We make software, experiences, and media. This also includes games. The RUFF Foundation is our open source development group, whom acts as the orchestrator for various collaborative project development ventures. [Contact Us](https://blazed.contact/) for development inquiries.
 
 ## Social
 - [Professional Facebook](https://facebook.com/blazed.space)
 - [Linkedin](https://www.linkedin.com/in/blz-one/)
-  
-## Blazed Labs
-Blazed Labs LLC is a product development company founded in 2020.
-- [Blazed Labs LLC](https://blazedlabs.com/)
-- [Blazed Systems BD](https://blazed.systems/)
-- [Blazed Publishing BD](https://blazed.xyz/)
-- [Blazed Telecom BD](https://blazed.tel/)
+- [Instagram](https://instagram.com/blazed_labs)
+- [Twitter](https://twitter.com/BlazedLabs)
 
-## Blazed University
-Discover a school like no other, in this virtual campus, we are all the students as well as the teachers.
+## Github
+- [Main - @blazed-labs](https://github.com/blazed-labs)
+- [Developers - @blazed-space](https://github.com/blazed-space)
+- [Publishing - @blazed-xyz](https://github.com/blazed-xyz)
+- [Community - @ruff-org](https://github.com/ruff-org)
+  
+## Websites
+- [Blazed Labs LLC](https://blazedlabs.com/)
+- [Blazed Space](https://www.blazed.space/)
+- [Blazed Quest](https://blazed.quest/)
+
+### Blazed One
+- [Blazed One Home](https://blz.one/)
+- [Blazed Systems](https://blazed.systems/)
+- [Blazed Telecom](https://blazed.tel/)
+
+### Blazed University
+- [Blazed City](https://blazed.city/)
 - [Blazed University Facebook](https://www.facebook.com/groups/blazed.edu)
 - [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
+
+### Blazed Foods
+- [Blazed Foods](https://blazedfoods.com)
+
+### Media
+- [Blazed Publishing](https://blazed.xyz/)
+- [Blazed Watch](https://blazed.watch/)
 - [Blazed World](https://blazed.world/)
-- [Blazed City](https://blazed.city/)
-- [Blazed Space](https://www.blazed.space/)
+- [Concrete Games](https://blazed.games/)
 
-## Foods Research & Development
-Amazing quality, amazing prices. Discover Blazed Foods today!
-- [Blazed Foods R&D](https://blazedfoods.com)
-
-## Creative
-- [Blazed Watch Productions](https://blazed.watch/)
-- [Concrete Games Interactive](https://blazed.games/)
-
-## RUFF Foundation
-- [BLZ ONE](https://blz.one/)
-- [Coding Club](https://blazed.cc/)
+## Partners
 - [RTM Transit](https://rtmtransit.com/)
+- [Ocean Car Service](https://oceancarservice.com/)
