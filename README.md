@@ -6,13 +6,14 @@
 
 ## What do you do?
 Blazed Labs is a product development company we founded in January, 2020.
-We make software, experiences, and media. This also includes games. The RUFF Foundation is our open source development group, whom acts as the orchestrator for various collaborative project development ventures. [Contact Us](https://blazed.contact/) for development inquiries.
+We make software, experiences, and media. This also includes games. The RUFF Foundation is our open source development group, whom acts as the orchestrator for various collaborative project development ventures. [Contact Us](https://blazed.contact/) for development inquiries or [Learn More](https://blazed.space/) about our solutions.
 
 ## Social
 - [Professional Facebook](https://facebook.com/blazed.space)
 - [Blazed University Facebook](https://www.facebook.com/groups/blazed.edu)
 - [Mystery School](https://www.facebook.com/groups/atlantismysteryschool)
 - [Linkedin](https://www.linkedin.com/in/blz-one/)
+- [Twitter](https://twitter.com/TylerRuffDev)
 
 ## Github
 - [Main - @blazed-labs](https://github.com/blazed-labs)
@@ -20,6 +21,8 @@ We make software, experiences, and media. This also includes games. The RUFF Fou
 - [Publishing - @blazed-xyz](https://github.com/blazed-xyz)
 - [Community - @ruff-org](https://github.com/ruff-org)
 
-## IDE Profiles
-- [StackBlitz](https://stackblitz.com/@tyler-ruff)
+## Other Links
+- [Personal Portfolio](https://tyler-ruff.com)
+- [Blazed Corporate](https://blazed.company)
+- [Ruff Management inc](https://ruff-manage.com)
 
