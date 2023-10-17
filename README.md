@@ -2,7 +2,7 @@
 
 <a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/Beaker-Dark.png?w=120&h=120"></a>
 
-> "Code is scripture, and I am a Programming Monk"
+> "Code is scripture, and I am a Programming Monk."
 
 ## Social
 - [Professional Facebook](https://facebook.com/blazed.space)
