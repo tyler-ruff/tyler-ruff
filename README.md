@@ -2,6 +2,10 @@
 
 <a href="https://blazedlabs.com/"><img align="right" src="https://blazed.sirv.com/logo/Beaker-Dark.png?w=120&h=120"></a>
 
+### Software Developer, Business Owner, Designer. Come explore my universe.
+
+Hello world, my name is Tyler Ruff, I am a software developer, publisher, and marketing executive. I am the chair of two successful LLC's and one C-CORP. It is my mission to help foster growth and responsible governance in New Jersey and New York.
+
 > "Code is scripture, and I am a Programming Monk."
 
 ## Social
